@@ -1,0 +1,61 @@
+[ {
+  "uid" : "212ab88c48ec2023",
+  "name" : "testWikipedia()",
+  "time" : {
+    "start" : 1627577010623,
+    "stop" : 1627577010701,
+    "duration" : 78
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "69d662affccc43e",
+  "name" : "searchSeleniumAndGoBack()",
+  "time" : {
+    "start" : 1627577010806,
+    "stop" : 1627577010808,
+    "duration" : 2
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7ea132b53481719e",
+  "name" : "loginToWikipedia()",
+  "time" : {
+    "start" : 1627577010785,
+    "stop" : 1627577010788,
+    "duration" : 3
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "67e91b527d14e827",
+  "name" : "settingFontSize()",
+  "time" : {
+    "start" : 1627577010801,
+    "stop" : 1627577010803,
+    "duration" : 2
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "1776dbaff7c6bae3",
+  "name" : "searchSeleniumGrid()",
+  "time" : {
+    "start" : 1627577010792,
+    "stop" : 1627577010798,
+    "duration" : 6
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "abbd7840b4d5b2cd",
+  "name" : "searchFramework()",
+  "time" : {
+    "start" : 1627577010777,
+    "stop" : 1627577010781,
+    "duration" : 4
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

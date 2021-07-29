@@ -1,0 +1,91 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "The driver executable does not exist: /home/runner/work/allureReportOnWiki/allureReportOnWiki/resources/chromedriver.exe",
+      "children" : [ {
+        "name" : "testWikipedia()",
+        "uid" : "212ab88c48ec2023",
+        "parentUid" : "65a685c1e5a00a4affddb613fa8ce217",
+        "status" : "broken",
+        "time" : {
+          "start" : 1627577010623,
+          "stop" : 1627577010701,
+          "duration" : 78
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "searchFramework()",
+        "uid" : "abbd7840b4d5b2cd",
+        "parentUid" : "65a685c1e5a00a4affddb613fa8ce217",
+        "status" : "broken",
+        "time" : {
+          "start" : 1627577010777,
+          "stop" : 1627577010781,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginToWikipedia()",
+        "uid" : "7ea132b53481719e",
+        "parentUid" : "65a685c1e5a00a4affddb613fa8ce217",
+        "status" : "broken",
+        "time" : {
+          "start" : 1627577010785,
+          "stop" : 1627577010788,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "searchSeleniumGrid()",
+        "uid" : "1776dbaff7c6bae3",
+        "parentUid" : "65a685c1e5a00a4affddb613fa8ce217",
+        "status" : "broken",
+        "time" : {
+          "start" : 1627577010792,
+          "stop" : 1627577010798,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "settingFontSize()",
+        "uid" : "67e91b527d14e827",
+        "parentUid" : "65a685c1e5a00a4affddb613fa8ce217",
+        "status" : "broken",
+        "time" : {
+          "start" : 1627577010801,
+          "stop" : 1627577010803,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "searchSeleniumAndGoBack()",
+        "uid" : "69d662affccc43e",
+        "parentUid" : "65a685c1e5a00a4affddb613fa8ce217",
+        "status" : "broken",
+        "time" : {
+          "start" : 1627577010806,
+          "stop" : 1627577010808,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "65a685c1e5a00a4affddb613fa8ce217"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ],
+  "name" : "categories"
+}

@@ -1,0 +1,91 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "fv-az77-46",
+    "children" : [ {
+      "name" : "2835@fv-az77-46.ForkJoinPool-1-worker-1(12)",
+      "children" : [ {
+        "name" : "loginToWikipedia()",
+        "uid" : "7ea132b53481719e",
+        "parentUid" : "011b95fe29828006418dea2880c6056f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1627577010785,
+          "stop" : 1627577010788,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "searchSeleniumAndGoBack()",
+        "uid" : "69d662affccc43e",
+        "parentUid" : "011b95fe29828006418dea2880c6056f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1627577010806,
+          "stop" : 1627577010808,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "searchFramework()",
+        "uid" : "abbd7840b4d5b2cd",
+        "parentUid" : "011b95fe29828006418dea2880c6056f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1627577010777,
+          "stop" : 1627577010781,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testWikipedia()",
+        "uid" : "212ab88c48ec2023",
+        "parentUid" : "011b95fe29828006418dea2880c6056f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1627577010623,
+          "stop" : 1627577010701,
+          "duration" : 78
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "searchSeleniumGrid()",
+        "uid" : "1776dbaff7c6bae3",
+        "parentUid" : "011b95fe29828006418dea2880c6056f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1627577010792,
+          "stop" : 1627577010798,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "settingFontSize()",
+        "uid" : "67e91b527d14e827",
+        "parentUid" : "011b95fe29828006418dea2880c6056f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1627577010801,
+          "stop" : 1627577010803,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "011b95fe29828006418dea2880c6056f"
+    } ],
+    "uid" : "d9a9bfe05b341e9aa4e933f9e2018130"
+  } ],
+  "name" : "timeline"
+}

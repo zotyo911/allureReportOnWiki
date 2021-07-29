@@ -1,0 +1,128 @@
+{
+  "1c3421bbb1f5242fa65309fc6f8fb5c7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1776dbaff7c6bae3",
+      "reportUrl" : "https://zotyo911.github.io/allureReportOnWiki/1//#testresult/1776dbaff7c6bae3",
+      "status" : "broken",
+      "statusDetails" : "The driver executable does not exist: /home/runner/work/allureReportOnWiki/allureReportOnWiki/resources/chromedriver.exe",
+      "time" : {
+        "start" : 1627577010792,
+        "stop" : 1627577010798,
+        "duration" : 6
+      }
+    } ]
+  },
+  "d9d05b73171ca12886cfc633d0cbdddc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7ea132b53481719e",
+      "reportUrl" : "https://zotyo911.github.io/allureReportOnWiki/1//#testresult/7ea132b53481719e",
+      "status" : "broken",
+      "statusDetails" : "The driver executable does not exist: /home/runner/work/allureReportOnWiki/allureReportOnWiki/resources/chromedriver.exe",
+      "time" : {
+        "start" : 1627577010785,
+        "stop" : 1627577010788,
+        "duration" : 3
+      }
+    } ]
+  },
+  "3eb7461cf831a3ffaea0115bcb98eb9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "abbd7840b4d5b2cd",
+      "reportUrl" : "https://zotyo911.github.io/allureReportOnWiki/1//#testresult/abbd7840b4d5b2cd",
+      "status" : "broken",
+      "statusDetails" : "The driver executable does not exist: /home/runner/work/allureReportOnWiki/allureReportOnWiki/resources/chromedriver.exe",
+      "time" : {
+        "start" : 1627577010777,
+        "stop" : 1627577010781,
+        "duration" : 4
+      }
+    } ]
+  },
+  "8c7b99b89250dc57e5f3b2bd5166802f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "69d662affccc43e",
+      "reportUrl" : "https://zotyo911.github.io/allureReportOnWiki/1//#testresult/69d662affccc43e",
+      "status" : "broken",
+      "statusDetails" : "The driver executable does not exist: /home/runner/work/allureReportOnWiki/allureReportOnWiki/resources/chromedriver.exe",
+      "time" : {
+        "start" : 1627577010806,
+        "stop" : 1627577010808,
+        "duration" : 2
+      }
+    } ]
+  },
+  "e402118fd530cd2ac95246ac3b242726" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "67e91b527d14e827",
+      "reportUrl" : "https://zotyo911.github.io/allureReportOnWiki/1//#testresult/67e91b527d14e827",
+      "status" : "broken",
+      "statusDetails" : "The driver executable does not exist: /home/runner/work/allureReportOnWiki/allureReportOnWiki/resources/chromedriver.exe",
+      "time" : {
+        "start" : 1627577010801,
+        "stop" : 1627577010803,
+        "duration" : 2
+      }
+    } ]
+  },
+  "6f09d3127dfd6397f8ad33bb5d6cd472" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "212ab88c48ec2023",
+      "reportUrl" : "https://zotyo911.github.io/allureReportOnWiki/1//#testresult/212ab88c48ec2023",
+      "status" : "broken",
+      "statusDetails" : "The driver executable does not exist: /home/runner/work/allureReportOnWiki/allureReportOnWiki/resources/chromedriver.exe",
+      "time" : {
+        "start" : 1627577010623,
+        "stop" : 1627577010701,
+        "duration" : 78
+      }
+    } ]
+  }
+}

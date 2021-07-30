@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Fri Jul 30 07:29:38 GMT 2021","Fri Jul 30 07:29:38 GMT 2021","75","","WikipediaTest","","WikipediaTest","testWikipedia","testWikipedia()",""
+"broken","Fri Jul 30 07:29:38 GMT 2021","Fri Jul 30 07:29:38 GMT 2021","3","","WikipediaTest","","WikipediaTest","searchFramework","searchFramework()",""
+"broken","Fri Jul 30 07:29:38 GMT 2021","Fri Jul 30 07:29:38 GMT 2021","4","","WikipediaTest","","WikipediaTest","searchSeleniumGrid","searchSeleniumGrid()",""
+"broken","Fri Jul 30 07:29:38 GMT 2021","Fri Jul 30 07:29:38 GMT 2021","3","","WikipediaTest","","WikipediaTest","loginToWikipedia","loginToWikipedia()",""
+"broken","Fri Jul 30 07:29:38 GMT 2021","Fri Jul 30 07:29:38 GMT 2021","2","","WikipediaTest","","WikipediaTest","searchSeleniumAndGoBack","searchSeleniumAndGoBack()",""
+"broken","Fri Jul 30 07:29:38 GMT 2021","Fri Jul 30 07:29:38 GMT 2021","2","","WikipediaTest","","WikipediaTest","settingFontSize","settingFontSize()",""

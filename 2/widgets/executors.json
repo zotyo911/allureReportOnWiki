@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://zotyo911.github.io/allureReportOnWiki",
+  "buildOrder" : 2,
+  "buildName" : "GitHub Actions Run #1081413127",
+  "buildUrl" : "https://github.com/zotyo911/allureReportOnWiki/actions/runs/1081413127",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://zotyo911.github.io/allureReportOnWiki/2/"
+} ]
